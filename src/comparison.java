@@ -2,7 +2,7 @@
 import java.util.Arrays;
 public class comparison{
   public static void main(String[]args){
-// comparison Arrays
+// comparison_Arrays
     int[] array1 = new int [] {21,32,36,47};
         int[] array2 = new int [] {11,22,33,44};
     int[] array3 = new int [] {21,32,36,47};
